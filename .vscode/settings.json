@@ -1,0 +1,16 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/jekol/Projects/ProxyServer",
+            "binaryPath": "/home/jekol/Projects/ProxyServer/myapp",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "select.h": "c",
+        "inet.h": "c",
+        "string.h": "c",
+        "in.h": "c"
+    }
+}
